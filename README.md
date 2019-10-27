@@ -18,7 +18,8 @@ We chose to create a WebVR application to promote social wellness because of we 
 The advantages of a Web-based virtual reality (shortened to WebVR) application over a traditional system-dependent virtual reality application are its wide availability (as internet-connected devices are commonplace), elimination of any proprietary software or hardware, and its open-sourced nature. The code behind it is free to use and anyone can modify it, creating a continually updating landscape as developers add to and improve upon it.
 
 ## How it works
-Our platform uses the A-Frame WebVR Framework to create VR scenes that can run in a browser environment. Every five seconds, the JavaScript script uses AJAX to make a request to the Flask-powered server. The server queries the database and returns the messages that the frontend should display. If a user submits their own message, the server checks the message to see if it is appropriate and then saves it to the database, replacing old elements if the current number of messages is above the capacity that we define.
+Our platform uses the A-Frame WebVR Framework to create VR scenes that can run in a browser environment. Every five seconds, the JavaScript script uses AJAX to make a request to the Flask-powered server. The server queries the database and returns the messages that the frontend should display. If a user submits their own message, the server checks the message to see if it is appropriate and then saves it to the database, replacing old elements if the current number of messages is above the capacity that we define. Double click or press enter to start recording your message!
+
 ## Installation
 Installing everything is very simple. After cloning the Repo to your computer, enter the folder.
 
