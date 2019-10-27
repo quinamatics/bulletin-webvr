@@ -53,6 +53,15 @@ python application.py
 
 Now you can go to `http://localhost:5000/` and use the application.
 
+$$ Challenges
+
+We had a bit of trouble connecting the WebVR frontend to the Flask backend, designing integratd and instant speech-to-text capabilities, and handling text formatting and rotation across different devices.
+
+$$ What's next?
+
+We want to implement faster speech-to-text capabilities.
+
+
 ## Team Members
 - [Kevin Chen](https://github.com/k3vnchen), [kevin.n.chen@yale.edu](mailto:kevin.n.chen@yale.edu)
 - [Mykyta Solonko](https://github.com/msolonko), [mykyta.solonko@yale.edu](mailto:mykyta.solonko@yale.edu)
