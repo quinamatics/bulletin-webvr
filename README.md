@@ -2,7 +2,7 @@
 ![Bulletin VR](project/static/assets/blong_large.png)
 
 ## Introduction
-We tackle social anxiety by creating a shared interactive virtual reality bulletin board to allow users to anonymously post encouraging messages. [Try it out!](https://bulletinvr.online)
+We tackle social anxiety by creating a shared interactive virtual reality bulletin board to allow users to anonymously post encouraging messages. [Try it out! (https://bulletinvr.online)](https://bulletinvr.online)
 
 ## Inspiration
 Social anxiety affects hundreds of thousands of people and can negatively impact social interaction and mental health. Around campus, we found bulletin boards with encouraging anonymous messages, and we felt that these anonymous bulletin boards were a viable approach to combat social anxiety. Previous studies have shown that people with social anxiety felt more comfortable with online interaction and that online interaction decreases social anxiety even more in people with high levels of social anxiety or depression. With these results, we decided that an online platform would enhance the capabilities of the aforementioned bulletin boards. Further, being online can add yet another layer of anonymity to encourage those struggling with social anxiety to contribute their voices.
